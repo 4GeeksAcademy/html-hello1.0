@@ -1,0 +1,30 @@
+#headings{
+    display:flex;
+    justify-content: space-between;
+    padding: 1rem 0.5rem;
+}
+#post{
+    max-width: 400px;
+    margin: auto;
+}
+#row{
+    display: flex ;
+}
+
+.icons{
+    font-size: 2rem;
+}
+h1,h2{
+    margin: 0;
+    margin-left: 10px;
+}
+h1{
+    font-size: 1em;
+}
+h2{
+    font-size: 1rem;
+}
+#buttons{
+    display: flex;
+    justify-content: space-between;
+}
