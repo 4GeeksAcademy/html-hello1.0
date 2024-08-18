@@ -6,11 +6,12 @@
 }
    body{
     background: black;
+    padding:60px;
     
    }
 
 #post{
-    max-width: 600px ;
+    max-width: 500px ;
    margin:auto;
    background-color: white;
    justify-content: center;
@@ -20,17 +21,19 @@
 }
 
 .icons{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    padding-top: 1px;
 }
 h1,h2{
     margin: 0;
     margin-left: 10px;
 }
 h1{
-    font-size: 1.5em;
+    font-size: 1em;
 }
 h2{
-    font-size: 1.5rem;
+    font-size: 1rem;
+    
 }
 #buttons{
     display: flex;
@@ -45,4 +48,5 @@ h2{
 #text{
     padding:20px;
     margin: 0;
+   
 }
